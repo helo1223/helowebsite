@@ -1,0 +1,23 @@
+*{
+background-color:none;
+background-image:none;
+font-family:"Courier New", Courier, monospace;
+color:#000000;
+}
+a:link{
+color:#000066;
+}
+
+body{
+background-color:blue;
+background-image:url(images/bg/circuitboard.jpg);
+font-family:Comic Sans MS,Comic Sans;
+font-size:20px;
+font-weight:bold;
+color:#000000;
+}
+
+li
+{
+list-style-image:url(images/hot.gif);
+}
