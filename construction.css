@@ -20,4 +20,5 @@ color:#000000;
 li
 {
 list-style-image:url(images/hot.gif);
+list-style-position: inside;
 }
